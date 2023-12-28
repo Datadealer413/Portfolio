@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1Z49SnrOVnkmplOxbQkqNEZxZQXH4ZGo9/view?usp=sharing",
   portfolio_repository: "https://github.com/Datadealer413/Portfolio",
   githubProfile: "https://github.com/Datadealer413",
 };
