@@ -71,8 +71,6 @@ const greeting = {
 const socialMediaLinks = {
     ...
 }
-
-...
 ```
 
 You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
