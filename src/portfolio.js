@@ -14,7 +14,7 @@ const seo = {
     title: "Jack Lee Portfolio",
     type: "website",
     url: "http://jacklee.com/",
-  },
+ },
 };
 
 //Home Page
